@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lipinnambiar
-- 👀 I’m interested in UI developing in JavaScript framework and backend developing in nodejs and .net
+- 👀 I’m interested in challenging UI development using languages like TypeScript, JavaScript and framework like Angular, ExpressJs etc
 - 🌱 I’m currently learning lot of new things
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on opensource projects and non-profit organization
 - 📫 Reach me on email lipinnambiar@gmail.com
 
 <!---
